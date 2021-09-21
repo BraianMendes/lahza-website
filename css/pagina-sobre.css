@@ -1,0 +1,372 @@
+/* screen - pagina-sobre */
+
+.pagina-sobre {
+  background-color: var(--white);
+  height: 5341px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.pagina-sobre .retngulo-23-Y7Wvca {
+  background-color: #140b1d;
+  height: 4962px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.pagina-sobre .fundo2-Y7Wvca {
+  background-color: transparent;
+  height: 2018px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.pagina-sobre .retngulo-24-Y7Wvca {
+  background-color: #140b1d;
+  height: 4874px;
+  left: 0px;
+  opacity: 0.73;
+  position: absolute;
+  top: 120px;
+  width: 1920px;
+}
+
+.pagina-sobre .logo-branca-Y7Wvca {
+  background-color: transparent;
+  height: 392px;
+  left: 612px;
+  object-fit: cover;
+  position: absolute;
+  top: 247px;
+  width: 696px;
+}
+
+.pagina-sobre .cabealho-Y7Wvca {
+  background-color: transparent;
+  height: 120px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.pagina-sobre .retngulo-1-a870N6 {
+  background-color: var(--clairvoyant);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.pagina-sobre .insta-a870N6 {
+  background-color: transparent;
+  bottom: calc(43.08% - 24px);
+  cursor: pointer;
+  height: 55px;
+  object-fit: cover;
+  position: absolute;
+  right: 166px;
+  width: 73px;
+}
+
+.pagina-sobre .lahzalogo-2-a870N6 {
+  background-color: transparent;
+  bottom: calc(42.37% - 26px);
+  cursor: pointer;
+  height: 61px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 150px;
+}
+
+.pagina-sobre .about-a870N6 {
+  background-color: transparent;
+  bottom: calc(32.58% - 18px);
+  height: 54px;
+  letter-spacing: 0.00px;
+  line-height: 39px;
+  position: absolute;
+  right: calc(41.83% - 45px);
+  text-align: left;
+  white-space: nowrap;
+  width: 108px;
+}
+
+.pagina-sobre .contacts-a870N6 {
+  background-color: transparent;
+  bottom: calc(33.58% - 18px);
+  cursor: pointer;
+  height: 53px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  position: absolute;
+  right: calc(20.54% - 30px);
+  text-align: left;
+  white-space: nowrap;
+  width: 148px;
+}
+
+.pagina-sobre .products-a870N6 {
+  background-color: transparent;
+  bottom: calc(35.07% - 19px);
+  cursor: pointer;
+  height: 53px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  position: absolute;
+  right: calc(31.73% - 47px);
+  text-align: left;
+  white-space: nowrap;
+  width: 149px;
+}
+
+.pagina-sobre .link-png-a870N6 {
+  background-color: transparent;
+  bottom: calc(43.08% - 24px);
+  cursor: pointer;
+  height: 55px;
+  object-fit: cover;
+  position: absolute;
+  right: 84px;
+  width: 90px;
+}
+
+.pagina-sobre .rodap-Y7Wvca {
+  background-color: transparent;
+  height: 379px;
+  left: -6px;
+  position: absolute;
+  top: 4962px;
+  width: 1926px;
+}
+
+.pagina-sobre .retngulo-21-UCjIEy {
+  background-color: var(--ebony);
+  height: 100%;
+  left: 6px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 6px);
+}
+
+.pagina-sobre .products-UCjIEy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 53px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  position: absolute;
+  right: calc(31.96% - 48px);
+  text-align: left;
+  top: calc(22.24% - 12px);
+  white-space: nowrap;
+  width: 149px;
+}
+
+.pagina-sobre .about-UCjIEy {
+  background-color: transparent;
+  height: 54px;
+  letter-spacing: 0.00px;
+  line-height: 39px;
+  position: absolute;
+  right: calc(42.02% - 45px);
+  text-align: left;
+  top: calc(21.69% - 12px);
+  white-space: nowrap;
+  width: 108px;
+}
+
+.pagina-sobre .contacts-UCjIEy {
+  background-color: transparent;
+  cursor: pointer;
+  height: 53px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  position: absolute;
+  right: calc(20.98% - 31px);
+  text-align: left;
+  top: calc(22.24% - 12px);
+  white-space: nowrap;
+  width: 148px;
+}
+
+.pagina-sobre .x2021-lahza-all-rights-reserved-UCjIEy {
+  background-color: transparent;
+  height: 42px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: 110px;
+  text-align: left;
+  top: calc(42.14% - 18px);
+  white-space: nowrap;
+  width: 392px;
+}
+
+.pagina-sobre .lahzalogo-2-UCjIEy {
+  background-color: transparent;
+  height: 61px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 52px;
+  width: 150px;
+}
+
+.pagina-sobre .linha-21-UCjIEy {
+  background-color: transparent;
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: 6px;
+  top: calc(32.76% - 1px);
+  width: 1049px;
+}
+
+.pagina-sobre .belo-horizonte-mg-brasil-UCjIEy {
+  background-color: transparent;
+  bottom: calc(45.99% - 19px);
+  height: 42px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: 129px;
+  text-align: left;
+  white-space: nowrap;
+  width: 373px;
+}
+
+.pagina-sobre .title-Y7Wvca {
+  background-color: transparent;
+  height: auto;
+  left: 236px;
+  letter-spacing: 0.00px;
+  line-height: 70px;
+  position: absolute;
+  text-align: left;
+  top: 905px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.pagina-sobre .what-we-do-Y7Wvca {
+  background-color: transparent;
+  height: auto;
+  left: 241px;
+  letter-spacing: 0.00px;
+  line-height: 70px;
+  position: absolute;
+  text-align: left;
+  top: 1795px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.pagina-sobre .always-looking-in-raw-material-Y7Wvca {
+  background-color: transparent;
+  height: auto;
+  left: 241px;
+  letter-spacing: 0.00px;
+  line-height: 42px;
+  position: absolute;
+  text-align: left;
+  top: 1988px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.pagina-sobre .how-we-work-Y7Wvca {
+  background-color: transparent;
+  height: auto;
+  left: 241px;
+  letter-spacing: 0.00px;
+  line-height: 70px;
+  position: absolute;
+  text-align: left;
+  top: 2356px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.pagina-sobre .the-beginning-o-ional-potential-Y7Wvca {
+  background-color: transparent;
+  height: auto;
+  left: 241px;
+  letter-spacing: 0.00px;
+  line-height: 42px;
+  position: absolute;
+  text-align: left;
+  top: 2577px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.pagina-sobre .make-a-difference-Y7Wvca {
+  background-color: transparent;
+  height: auto;
+  left: 241px;
+  letter-spacing: 0.00px;
+  line-height: 70px;
+  position: absolute;
+  text-align: left;
+  top: 3141px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.pagina-sobre .lahza-is-a-comp-chnology-we-dev-Y7Wvca {
+  background-color: transparent;
+  height: auto;
+  left: 236px;
+  letter-spacing: 0.00px;
+  line-height: 42px;
+  position: absolute;
+  text-align: left;
+  top: 1140px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.pagina-sobre .the-search-for-oraroma-texture-Y7Wvca {
+  background-color: transparent;
+  height: auto;
+  left: 241px;
+  letter-spacing: 0.00px;
+  line-height: 42px;
+  position: absolute;
+  text-align: left;
+  top: 3439px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.pagina-sobre .link-png-Y7Wvca {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 1744px;
+  object-fit: cover;
+  position: absolute;
+  top: 5027px;
+  width: 90px;
+}
+
+.pagina-sobre .insta-Y7Wvca {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  left: 1668px;
+  object-fit: cover;
+  position: absolute;
+  top: 5027px;
+  width: 99px;
+}

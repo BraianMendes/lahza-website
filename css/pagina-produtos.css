@@ -1,0 +1,953 @@
+/* screen - pagina-produtos */
+
+.pagina-produtos {
+  background-color: var(--white);
+  height: 1558px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.pagina-produtos .retngulo-25-NUE28U {
+  background-color: var(--alto);
+  height: 1193px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.pagina-produtos .retngulo-37-NUE28U {
+  background: linear-gradient(180deg, #26023a 0%, #26023a 7.52%, #84718f 40.57%, #e7e5e8 87.86%, #efefef 100%);
+  background-color: transparent;
+  height: 1059px;
+  left: 0px;
+  position: absolute;
+  top: 120px;
+  width: 1926px;
+}
+
+.pagina-produtos .fundo-png-NUE28U {
+  background-color: transparent;
+  height: 1089px;
+  left: -162px;
+  object-fit: cover;
+  position: absolute;
+  top: 105px;
+  width: 2485px;
+}
+
+.pagina-produtos .retngulo-42-NUE28U {
+  background-color: var(--midnight-pearl);
+  height: 277px;
+  left: 932px;
+  opacity: 0.22;
+  position: absolute;
+  top: 338px;
+  width: 278px;
+}
+
+.pagina-produtos .retngulo-44-NUE28U {
+  background-color: var(--midnight-pearl);
+  height: 277px;
+  left: 348px;
+  opacity: 0.22;
+  position: absolute;
+  top: 338px;
+  width: 278px;
+}
+
+.pagina-produtos .blend-it-with-w-e-drink-it-cold-NUE28U {
+  background-color: transparent;
+  height: auto;
+  left: 932px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 334px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.pagina-produtos .retngulo-43-NUE28U {
+  background-color: var(--scarlet-gum);
+  height: 6px;
+  left: 932px;
+  position: absolute;
+  top: 396px;
+  width: 278px;
+}
+
+.pagina-produtos .when-complement-ment-and-flavor-NUE28U {
+  background-color: transparent;
+  height: auto;
+  left: 932px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 401px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.pagina-produtos .span0-GgU2gM {
+}
+
+.pagina-produtos .span1-GgU2gM {
+}
+
+.pagina-produtos .healthy-easy-to-radd-in-recipes-NUE28U {
+  background-color: transparent;
+  height: auto;
+  left: 348px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 305px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.pagina-produtos .span0-hBxO6j {
+}
+
+.pagina-produtos .span1-hBxO6j {
+}
+
+.pagina-produtos .retngulo-45-NUE28U {
+  background-color: var(--scarlet-gum);
+  height: 6px;
+  left: 348px;
+  position: absolute;
+  top: 396px;
+  width: 278px;
+}
+
+.pagina-produtos .when-for-breakf-serts-or-shakes-NUE28U {
+  background-color: transparent;
+  height: auto;
+  left: 348px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 401px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.pagina-produtos .span0-ydq2NO {
+}
+
+.pagina-produtos .span1-ydq2NO {
+}
+
+.pagina-produtos .products-NUE28U {
+  background-color: transparent;
+  color: var(--concrete);
+  font-family: var(--font-family-segoe_ui);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  height: auto;
+  left: 754px;
+  letter-spacing: 0.00px;
+  line-height: 70px;
+  position: absolute;
+  text-align: left;
+  top: 126px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.pagina-produtos .span0-XCbulK {
+  font-family: var(--font-family-segoeui-regular);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.pagina-produtos .span1-XCbulK {
+  font-family: var(--font-family-segoeui-bold);
+  font-style: normal;
+}
+
+.pagina-produtos .cacau-whey-NUE28U {
+  background-color: transparent;
+  height: 425px;
+  left: 533px;
+  object-fit: cover;
+  position: absolute;
+  top: 710px;
+  width: 531px;
+}
+
+.pagina-produtos .lahzalogo-2-NUE28U {
+  background-color: transparent;
+  height: 72px;
+  left: 751px;
+  object-fit: cover;
+  position: absolute;
+  top: 125px;
+  width: 98px;
+}
+
+.pagina-produtos .aa-orgnico-NUE28U {
+  background-color: transparent;
+  height: 403px;
+  left: 35px;
+  object-fit: cover;
+  position: absolute;
+  top: 278px;
+  width: 344px;
+}
+
+.pagina-produtos .componente-11-4-NUE28U {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 608px;
+  position: absolute;
+  top: 597px;
+  width: 37px;
+}
+
+.pagina-produtos .elipse-1-70Qt0I {
+  background-color: var(--moody-blue);
+  border-radius: 18.5px;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.pagina-produtos .componente-11-1-NUE28U {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 608px;
+  pointer-events: auto;
+  position: absolute;
+  top: 597px;
+  transition: all 0.2s ease;
+  width: 37px;
+}
+
+.pagina-produtos .componente-11-1-NUE28U:hover {
+  opacity: 0;
+}
+
+.pagina-produtos .elipse-1-TH2K3h {
+  background-color: var(--midnight-pearl);
+  border-radius: 18.5px;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.pagina-produtos .linha-18-NUE28U {
+  background-color: transparent;
+  height: 24px;
+  left: 625px;
+  object-fit: cover;
+  position: absolute;
+  top: 603px;
+  width: 2px;
+}
+
+.pagina-produtos .caminho-2-NUE28U {
+  background-color: transparent;
+  height: 2px;
+  left: 615px;
+  object-fit: cover;
+  position: absolute;
+  top: 614px;
+  width: 24px;
+}
+
+.pagina-produtos .banana-NUE28U {
+  background-color: transparent;
+  height: 403px;
+  left: 631px;
+  position: absolute;
+  top: 278px;
+  width: 341px;
+}
+
+.pagina-produtos .smothie-guaran-banana-pT08ur {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.pagina-produtos .whey-NUE28U {
+  background-color: transparent;
+  height: 403px;
+  left: 1213px;
+  position: absolute;
+  top: 278px;
+  width: 318px;
+}
+
+.pagina-produtos .whey-guaran-DQ4yEx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.pagina-produtos .componente-11-5-NUE28U {
+  background-color: transparent;
+  height: 37px;
+  left: 1192px;
+  position: absolute;
+  top: 597px;
+  width: 37px;
+}
+
+.pagina-produtos .elipse-1-CC03VR {
+  background-color: var(--moody-blue);
+  border-radius: 18.5px;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.pagina-produtos .componente-11-2-NUE28U {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 1192px;
+  pointer-events: auto;
+  position: absolute;
+  top: 597px;
+  transition: all 0.2s ease;
+  width: 37px;
+}
+
+.pagina-produtos .componente-11-2-NUE28U:hover {
+  opacity: 0;
+}
+
+.pagina-produtos .elipse-1-orVMjb {
+  background-color: var(--midnight-pearl);
+  border-radius: 18.5px;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.pagina-produtos .linha-19-NUE28U {
+  background-color: transparent;
+  cursor: pointer;
+  height: 25px;
+  left: 1209px;
+  object-fit: cover;
+  position: absolute;
+  top: 603px;
+  width: 2px;
+}
+
+.pagina-produtos .caminho-3-NUE28U {
+  background-color: transparent;
+  height: 2px;
+  left: 1198px;
+  object-fit: cover;
+  position: absolute;
+  top: 615px;
+  width: 24px;
+}
+
+.pagina-produtos .cabealho-NUE28U {
+  background-color: transparent;
+  height: 120px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.pagina-produtos .retngulo-1-x7iu1K {
+  background-color: var(--clairvoyant);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.pagina-produtos .insta-x7iu1K {
+  background-color: transparent;
+  bottom: calc(43.08% - 24px);
+  cursor: pointer;
+  height: 55px;
+  object-fit: cover;
+  position: absolute;
+  right: 157px;
+  width: 82px;
+}
+
+.pagina-produtos .lahzalogo-2-x7iu1K {
+  background-color: transparent;
+  bottom: calc(42.37% - 26px);
+  cursor: pointer;
+  height: 61px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 150px;
+}
+
+.pagina-produtos .about-x7iu1K {
+  background-color: transparent;
+  bottom: calc(32.58% - 18px);
+  cursor: pointer;
+  height: 54px;
+  letter-spacing: 0.00px;
+  line-height: 39px;
+  position: absolute;
+  right: calc(41.83% - 45px);
+  text-align: left;
+  white-space: nowrap;
+  width: 108px;
+}
+
+.pagina-produtos .contacts-x7iu1K {
+  background-color: transparent;
+  bottom: calc(33.58% - 18px);
+  cursor: pointer;
+  height: 53px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  position: absolute;
+  right: calc(20.54% - 30px);
+  text-align: left;
+  white-space: nowrap;
+  width: 148px;
+}
+
+.pagina-produtos .products-x7iu1K {
+  background-color: transparent;
+  bottom: calc(35.07% - 19px);
+  height: 53px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  position: absolute;
+  right: calc(31.73% - 47px);
+  text-align: left;
+  white-space: nowrap;
+  width: 149px;
+}
+
+.pagina-produtos .link-png-x7iu1K {
+  background-color: transparent;
+  bottom: calc(43.08% - 24px);
+  cursor: pointer;
+  height: 55px;
+  object-fit: cover;
+  position: absolute;
+  right: 84px;
+  width: 90px;
+}
+
+.pagina-produtos .rodap-NUE28U {
+  background-color: transparent;
+  height: 379px;
+  left: -6px;
+  position: absolute;
+  top: 1179px;
+  width: 1926px;
+}
+
+.pagina-produtos .retngulo-21-GBhkl3 {
+  background-color: var(--ebony);
+  height: 100%;
+  left: 6px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 6px);
+}
+
+.pagina-produtos .products-GBhkl3 {
+  background-color: transparent;
+  height: 53px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  position: absolute;
+  right: calc(31.96% - 48px);
+  text-align: left;
+  top: calc(20.40% - 11px);
+  white-space: nowrap;
+  width: 149px;
+}
+
+.pagina-produtos .about-GBhkl3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 54px;
+  letter-spacing: 0.00px;
+  line-height: 39px;
+  position: absolute;
+  right: calc(42.02% - 45px);
+  text-align: left;
+  top: calc(20.46% - 11px);
+  white-space: nowrap;
+  width: 108px;
+}
+
+.pagina-produtos .contacts-GBhkl3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 53px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  position: absolute;
+  right: calc(20.98% - 31px);
+  text-align: left;
+  top: calc(20.40% - 11px);
+  white-space: nowrap;
+  width: 148px;
+}
+
+.pagina-produtos .x2021-lahza-all-rights-reserved-GBhkl3 {
+  background-color: transparent;
+  height: 42px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: 110px;
+  text-align: left;
+  top: calc(42.14% - 18px);
+  white-space: nowrap;
+  width: 392px;
+}
+
+.pagina-produtos .lahzalogo-2-GBhkl3 {
+  background-color: transparent;
+  height: 61px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 52px;
+  width: 150px;
+}
+
+.pagina-produtos .linha-21-GBhkl3 {
+  background-color: transparent;
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: 6px;
+  top: calc(32.76% - 1px);
+  width: 1049px;
+}
+
+.pagina-produtos .insta-GBhkl3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  object-fit: cover;
+  position: absolute;
+  right: 160px;
+  top: calc(17.90% - 10px);
+  width: 85px;
+}
+
+.pagina-produtos .link-png-GBhkl3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  object-fit: cover;
+  position: absolute;
+  right: 90px;
+  top: calc(17.90% - 10px);
+  width: 90px;
+}
+
+.pagina-produtos .belo-horizonte-mg-brasil-GBhkl3 {
+  background-color: transparent;
+  bottom: calc(45.99% - 19px);
+  height: 42px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: 129px;
+  text-align: left;
+  white-space: nowrap;
+  width: 373px;
+}
+
+.pagina-produtos .retngulo-40-NUE28U {
+  background-color: var(--midnight-pearl);
+  height: 277px;
+  left: 1516px;
+  opacity: 0.22;
+  position: absolute;
+  top: 338px;
+  width: 278px;
+}
+
+.pagina-produtos .shake-it-in-wat-d-drink-it-iced-NUE28U {
+  background-color: transparent;
+  height: auto;
+  left: 1516px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 332px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.pagina-produtos .retngulo-41-NUE28U {
+  background-color: var(--scarlet-gum);
+  height: 6px;
+  left: 1516px;
+  position: absolute;
+  top: 396px;
+  width: 278px;
+}
+
+.pagina-produtos .when-pre-workou-ahealthy-snack-NUE28U {
+  background-color: transparent;
+  height: auto;
+  left: 1516px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 401px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.pagina-produtos .span0-5SkjoT {
+}
+
+.pagina-produtos .span1-5SkjoT {
+}
+
+.pagina-produtos .componente-11-6-NUE28U {
+  background-color: transparent;
+  height: 37px;
+  left: 1776px;
+  position: absolute;
+  top: 597px;
+  width: 37px;
+}
+
+.pagina-produtos .elipse-1-RlDSin {
+  background-color: var(--moody-blue);
+  border-radius: 18.5px;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.pagina-produtos .componente-11-3-NUE28U {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 1776px;
+  pointer-events: auto;
+  position: absolute;
+  top: 597px;
+  transition: all 0.2s ease;
+  width: 37px;
+}
+
+.pagina-produtos .componente-11-3-NUE28U:hover {
+  opacity: 0;
+}
+
+.pagina-produtos .elipse-1-vWr2iL {
+  background-color: var(--midnight-pearl);
+  border-radius: 18.5px;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.pagina-produtos .linha-20-NUE28U {
+  background-color: transparent;
+  height: 26px;
+  left: 1793px;
+  object-fit: cover;
+  position: absolute;
+  top: 603px;
+  width: 2px;
+}
+
+.pagina-produtos .caminho-4-NUE28U {
+  background-color: transparent;
+  height: 2px;
+  left: 1782px;
+  object-fit: cover;
+  position: absolute;
+  top: 615px;
+  width: 25px;
+}
+
+.pagina-produtos .retngulo-57-NUE28U {
+  background-color: var(--midnight-pearl);
+  height: 277px;
+  left: 361px;
+  opacity: 0.22;
+  position: absolute;
+  top: 777px;
+  width: 278px;
+}
+
+.pagina-produtos .blend-it-with-w-e-drink-it-cold-yxmRXA {
+  background-color: transparent;
+  height: auto;
+  left: 361px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 773px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.pagina-produtos .retngulo-58-NUE28U {
+  background-color: var(--scarlet-gum);
+  height: 6px;
+  left: 361px;
+  position: absolute;
+  top: 835px;
+  width: 278px;
+}
+
+.pagina-produtos .when-complement-ment-and-flavor-yxmRXA {
+  background-color: transparent;
+  height: auto;
+  left: 361px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 840px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.pagina-produtos .span0-g4LCaL {
+}
+
+.pagina-produtos .span1-g4LCaL {
+}
+
+.pagina-produtos .componente-11-7-NUE28U {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 621px;
+  position: absolute;
+  top: 1036px;
+  width: 37px;
+}
+
+.pagina-produtos .elipse-1-yMKVD1 {
+  background-color: var(--moody-blue);
+  border-radius: 18.5px;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.pagina-produtos .componente-11-8-NUE28U {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 621px;
+  pointer-events: auto;
+  position: absolute;
+  top: 1036px;
+  transition: all 0.2s ease;
+  width: 37px;
+}
+
+.pagina-produtos .componente-11-8-NUE28U:hover {
+  opacity: 0;
+}
+
+.pagina-produtos .elipse-1-6dZMna {
+  background-color: var(--midnight-pearl);
+  border-radius: 18.5px;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.pagina-produtos .caminho-5-NUE28U {
+  background-color: transparent;
+  height: 2px;
+  left: 627px;
+  object-fit: cover;
+  position: absolute;
+  top: 1054px;
+  width: 24px;
+}
+
+.pagina-produtos .caminho-6-NUE28U {
+  background-color: transparent;
+  height: 24px;
+  left: 638px;
+  object-fit: cover;
+  position: absolute;
+  top: 1043px;
+  width: 2px;
+}
+
+.pagina-produtos .retngulo-59-NUE28U {
+  background-color: var(--midnight-pearl);
+  height: 277px;
+  left: 932px;
+  opacity: 0.22;
+  position: absolute;
+  top: 784px;
+  width: 278px;
+}
+
+.pagina-produtos .shake-it-in-wat-d-drink-it-iced-yxmRXA {
+  background-color: transparent;
+  height: auto;
+  left: 932px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 778px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.pagina-produtos .retngulo-60-NUE28U {
+  background-color: var(--scarlet-gum);
+  height: 6px;
+  left: 932px;
+  position: absolute;
+  top: 842px;
+  width: 278px;
+}
+
+.pagina-produtos .when-pre-workou-ahealthy-snack-yxmRXA {
+  background-color: transparent;
+  height: auto;
+  left: 932px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 847px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.pagina-produtos .span0-yyRx0g {
+}
+
+.pagina-produtos .span1-yyRx0g {
+}
+
+.pagina-produtos .componente-11-9-NUE28U {
+  background-color: transparent;
+  height: 37px;
+  left: 1192px;
+  position: absolute;
+  top: 1043px;
+  width: 37px;
+}
+
+.pagina-produtos .elipse-1-nO4B7Z {
+  background-color: var(--moody-blue);
+  border-radius: 18.5px;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.pagina-produtos .componente-11-10-NUE28U {
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 1192px;
+  pointer-events: auto;
+  position: absolute;
+  top: 1043px;
+  transition: all 0.2s ease;
+  width: 37px;
+}
+
+.pagina-produtos .componente-11-10-NUE28U:hover {
+  opacity: 0;
+}
+
+.pagina-produtos .elipse-1-sFLk6c {
+  background-color: var(--midnight-pearl);
+  border-radius: 18.5px;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.pagina-produtos .linha-22-NUE28U {
+  background-color: transparent;
+  height: 26px;
+  left: 1209px;
+  object-fit: cover;
+  position: absolute;
+  top: 1049px;
+  width: 2px;
+}
+
+.pagina-produtos .caminho-7-NUE28U {
+  background-color: transparent;
+  height: 2px;
+  left: 1198px;
+  object-fit: cover;
+  position: absolute;
+  top: 1061px;
+  width: 25px;
+}
+
+.pagina-produtos .cacau-smothie-NUE28U {
+  background-color: transparent;
+  height: 431px;
+  left: -62px;
+  object-fit: cover;
+  position: absolute;
+  top: 707px;
+  width: 539px;
+}

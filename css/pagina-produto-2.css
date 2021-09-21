@@ -1,0 +1,308 @@
+/* screen - pagina-produto-2 */
+
+.pagina-produto-2 {
+  background-color: var(--white);
+  height: 1800px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.pagina-produto-2 .retngulo-25-clJBtX {
+  background-color: var(--alto);
+  height: 1434px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.pagina-produto-2 .retngulo-37-clJBtX {
+  background: linear-gradient(180deg, #26023a 0%, #26023a 7.52%, #84718f 40.57%, #e7e5e8 87.86%, #efefef 100%);
+  background-color: transparent;
+  height: 1314px;
+  left: 0px;
+  position: absolute;
+  top: 120px;
+  width: 1926px;
+}
+
+.pagina-produto-2 .fundo-png-clJBtX {
+  background-color: transparent;
+  height: 1344px;
+  left: -153px;
+  object-fit: cover;
+  position: absolute;
+  top: 105px;
+  width: 2485px;
+}
+
+.pagina-produto-2 .smothie-guaran-banana-clJBtX {
+  background-color: transparent;
+  height: 1077px;
+  left: 105px;
+  object-fit: cover;
+  position: absolute;
+  top: 159px;
+  width: 765px;
+}
+
+.pagina-produto-2 .retngulo-38-clJBtX {
+  background-color: var(--cherry-pie-2);
+  height: 715px;
+  left: 1109px;
+  opacity: 0.1;
+  position: absolute;
+  top: 361px;
+  width: 538px;
+}
+
+.pagina-produto-2 .oficial-clJBtX {
+  background-color: transparent;
+  height: 792px;
+  left: 1066px;
+  object-fit: cover;
+  position: absolute;
+  top: 336px;
+  width: 622px;
+}
+
+.pagina-produto-2 .list-of-ingredi-tric-acid-acidu-clJBtX {
+  background-color: transparent;
+  height: auto;
+  left: 90px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 1205px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.pagina-produto-2 .span0-xWQKzA {
+}
+
+.pagina-produto-2 .span1-xWQKzA {
+}
+
+.pagina-produto-2 .cabealho-clJBtX {
+  background-color: transparent;
+  height: 120px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.pagina-produto-2 .retngulo-1-7x3hjl {
+  background-color: var(--clairvoyant);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.pagina-produto-2 .insta-7x3hjl {
+  background-color: transparent;
+  bottom: calc(43.08% - 24px);
+  cursor: pointer;
+  height: 55px;
+  object-fit: cover;
+  position: absolute;
+  right: 153px;
+  width: 86px;
+}
+
+.pagina-produto-2 .lahzalogo-2-7x3hjl {
+  background-color: transparent;
+  bottom: calc(42.37% - 26px);
+  cursor: pointer;
+  height: 61px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 150px;
+}
+
+.pagina-produto-2 .about-7x3hjl {
+  background-color: transparent;
+  bottom: calc(32.58% - 18px);
+  cursor: pointer;
+  height: 54px;
+  letter-spacing: 0.00px;
+  line-height: 39px;
+  position: absolute;
+  right: calc(41.83% - 45px);
+  text-align: left;
+  white-space: nowrap;
+  width: 108px;
+}
+
+.pagina-produto-2 .contacts-7x3hjl {
+  background-color: transparent;
+  bottom: calc(33.58% - 18px);
+  cursor: pointer;
+  height: 53px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  position: absolute;
+  right: calc(20.54% - 30px);
+  text-align: left;
+  white-space: nowrap;
+  width: 148px;
+}
+
+.pagina-produto-2 .products-7x3hjl {
+  background-color: transparent;
+  bottom: calc(35.07% - 19px);
+  cursor: pointer;
+  height: 53px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  position: absolute;
+  right: calc(31.73% - 47px);
+  text-align: left;
+  white-space: nowrap;
+  width: 149px;
+}
+
+.pagina-produto-2 .link-png-7x3hjl {
+  background-color: transparent;
+  bottom: calc(43.08% - 24px);
+  cursor: pointer;
+  height: 55px;
+  object-fit: cover;
+  position: absolute;
+  right: 84px;
+  width: 90px;
+}
+
+.pagina-produto-2 .rodap-clJBtX {
+  background-color: transparent;
+  height: 379px;
+  left: -6px;
+  position: absolute;
+  top: 1421px;
+  width: 1926px;
+}
+
+.pagina-produto-2 .retngulo-21-LuML3Y {
+  background-color: var(--ebony);
+  height: 100%;
+  left: 6px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 6px);
+}
+
+.pagina-produto-2 .products-LuML3Y {
+  background-color: transparent;
+  cursor: pointer;
+  height: 53px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  position: absolute;
+  right: calc(31.96% - 48px);
+  text-align: left;
+  top: calc(20.40% - 11px);
+  white-space: nowrap;
+  width: 149px;
+}
+
+.pagina-produto-2 .about-LuML3Y {
+  background-color: transparent;
+  cursor: pointer;
+  height: 54px;
+  letter-spacing: 0.00px;
+  line-height: 39px;
+  position: absolute;
+  right: calc(42.02% - 45px);
+  text-align: left;
+  top: calc(20.46% - 11px);
+  white-space: nowrap;
+  width: 108px;
+}
+
+.pagina-produto-2 .contacts-LuML3Y {
+  background-color: transparent;
+  height: 53px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  position: absolute;
+  right: calc(20.98% - 31px);
+  text-align: left;
+  top: calc(20.40% - 11px);
+  white-space: nowrap;
+  width: 148px;
+}
+
+.pagina-produto-2 .x2021-lahza-all-rights-reserved-LuML3Y {
+  background-color: transparent;
+  height: 42px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: 110px;
+  text-align: left;
+  top: calc(42.14% - 18px);
+  white-space: nowrap;
+  width: 392px;
+}
+
+.pagina-produto-2 .lahzalogo-2-LuML3Y {
+  background-color: transparent;
+  height: 61px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 52px;
+  width: 150px;
+}
+
+.pagina-produto-2 .linha-21-LuML3Y {
+  background-color: transparent;
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: 6px;
+  top: calc(32.76% - 1px);
+  width: 1049px;
+}
+
+.pagina-produto-2 .insta-LuML3Y {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  object-fit: cover;
+  position: absolute;
+  right: 158px;
+  top: calc(17.90% - 10px);
+  width: 87px;
+}
+
+.pagina-produto-2 .link-png-LuML3Y {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  object-fit: cover;
+  position: absolute;
+  right: 90px;
+  top: calc(17.90% - 10px);
+  width: 90px;
+}
+
+.pagina-produto-2 .belo-horizonte-mg-brasil-LuML3Y {
+  background-color: transparent;
+  bottom: calc(45.99% - 19px);
+  height: 42px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: 129px;
+  text-align: left;
+  white-space: nowrap;
+  width: 373px;
+}

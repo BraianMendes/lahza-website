@@ -1,0 +1,327 @@
+/* screen - pagina-produto-4 */
+
+.pagina-produto-4 {
+  background-color: var(--white);
+  height: 1800px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.pagina-produto-4 .retngulo-25-MeAd3Z {
+  background-color: var(--alto);
+  height: 1434px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.pagina-produto-4 .retngulo-37-MeAd3Z {
+  background: linear-gradient(180deg, #26023a 0%, #26023a 7.52%, #84718f 40.57%, #e7e5e8 87.86%, #efefef 100%);
+  background-color: transparent;
+  height: 1314px;
+  left: 0px;
+  position: absolute;
+  top: 120px;
+  width: 1926px;
+}
+
+.pagina-produto-4 .retngulo-38-MeAd3Z {
+  background-color: var(--cherry-pie-2);
+  height: 719px;
+  left: 1109px;
+  opacity: 0.1;
+  position: absolute;
+  top: 361px;
+  width: 538px;
+}
+
+.pagina-produto-4 .oficial-cacau-MeAd3Z {
+  background-color: transparent;
+  height: 792px;
+  left: 1066px;
+  object-fit: cover;
+  position: absolute;
+  top: 336px;
+  width: 622px;
+}
+
+.pagina-produto-4 .retngulo-39-MeAd3Z {
+  background: linear-gradient(180deg, #5d426e 0%, #614772 100%);
+  background-color: transparent;
+  height: 26px;
+  left: 1406px;
+  position: absolute;
+  top: 502px;
+  width: 17px;
+}
+
+.pagina-produto-4 .x3-MeAd3Z {
+  background-color: transparent;
+  color: #f8f8f8;
+  font-family: var(--font-family-segoeui-regular);
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1406px;
+  letter-spacing: 0.00px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 498px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.pagina-produto-4 .list-of-ingredi-n-dioxide-antic-MeAd3Z {
+  background-color: transparent;
+  height: auto;
+  left: 90px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 1200px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.pagina-produto-4 .span0-r5qLcW {
+}
+
+.pagina-produto-4 .span1-r5qLcW {
+}
+
+.pagina-produto-4 .cabealho-MeAd3Z {
+  background-color: transparent;
+  height: 120px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.pagina-produto-4 .retngulo-1-eeSWH6 {
+  background-color: var(--clairvoyant);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.pagina-produto-4 .insta-eeSWH6 {
+  background-color: transparent;
+  bottom: calc(43.08% - 24px);
+  cursor: pointer;
+  height: 55px;
+  object-fit: cover;
+  position: absolute;
+  right: 155px;
+  width: 84px;
+}
+
+.pagina-produto-4 .lahzalogo-2-eeSWH6 {
+  background-color: transparent;
+  bottom: calc(42.37% - 26px);
+  cursor: pointer;
+  height: 61px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 150px;
+}
+
+.pagina-produto-4 .about-eeSWH6 {
+  background-color: transparent;
+  bottom: calc(32.58% - 18px);
+  cursor: pointer;
+  height: 54px;
+  letter-spacing: 0.00px;
+  line-height: 39px;
+  position: absolute;
+  right: calc(41.83% - 45px);
+  text-align: left;
+  white-space: nowrap;
+  width: 108px;
+}
+
+.pagina-produto-4 .contacts-eeSWH6 {
+  background-color: transparent;
+  bottom: calc(33.58% - 18px);
+  cursor: pointer;
+  height: 53px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  position: absolute;
+  right: calc(20.54% - 30px);
+  text-align: left;
+  white-space: nowrap;
+  width: 148px;
+}
+
+.pagina-produto-4 .products-eeSWH6 {
+  background-color: transparent;
+  bottom: calc(35.07% - 19px);
+  cursor: pointer;
+  height: 53px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  position: absolute;
+  right: calc(31.73% - 47px);
+  text-align: left;
+  white-space: nowrap;
+  width: 149px;
+}
+
+.pagina-produto-4 .link-png-eeSWH6 {
+  background-color: transparent;
+  bottom: calc(43.08% - 24px);
+  cursor: pointer;
+  height: 55px;
+  object-fit: cover;
+  position: absolute;
+  right: 84px;
+  width: 90px;
+}
+
+.pagina-produto-4 .rodap-MeAd3Z {
+  background-color: transparent;
+  height: 379px;
+  left: -6px;
+  position: absolute;
+  top: 1421px;
+  width: 1926px;
+}
+
+.pagina-produto-4 .retngulo-21-zUMt3h {
+  background-color: var(--ebony);
+  height: 100%;
+  left: 6px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 6px);
+}
+
+.pagina-produto-4 .products-zUMt3h {
+  background-color: transparent;
+  cursor: pointer;
+  height: 53px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  position: absolute;
+  right: calc(31.96% - 48px);
+  text-align: left;
+  top: calc(20.40% - 11px);
+  white-space: nowrap;
+  width: 149px;
+}
+
+.pagina-produto-4 .about-zUMt3h {
+  background-color: transparent;
+  cursor: pointer;
+  height: 54px;
+  letter-spacing: 0.00px;
+  line-height: 39px;
+  position: absolute;
+  right: calc(42.02% - 45px);
+  text-align: left;
+  top: calc(20.46% - 11px);
+  white-space: nowrap;
+  width: 108px;
+}
+
+.pagina-produto-4 .contacts-zUMt3h {
+  background-color: transparent;
+  cursor: pointer;
+  height: 53px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  position: absolute;
+  right: calc(20.98% - 31px);
+  text-align: left;
+  top: calc(20.40% - 11px);
+  white-space: nowrap;
+  width: 148px;
+}
+
+.pagina-produto-4 .x2021-lahza-all-rights-reserved-zUMt3h {
+  background-color: transparent;
+  height: 42px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: 110px;
+  text-align: left;
+  top: calc(42.14% - 18px);
+  white-space: nowrap;
+  width: 392px;
+}
+
+.pagina-produto-4 .lahzalogo-2-zUMt3h {
+  background-color: transparent;
+  height: 61px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 52px;
+  width: 150px;
+}
+
+.pagina-produto-4 .linha-21-zUMt3h {
+  background-color: transparent;
+  height: 2px;
+  object-fit: cover;
+  position: absolute;
+  right: 6px;
+  top: calc(32.76% - 1px);
+  width: 1049px;
+}
+
+.pagina-produto-4 .insta-zUMt3h {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  object-fit: cover;
+  position: absolute;
+  right: 161px;
+  top: calc(17.90% - 10px);
+  width: 84px;
+}
+
+.pagina-produto-4 .link-png-zUMt3h {
+  background-color: transparent;
+  cursor: pointer;
+  height: 55px;
+  object-fit: cover;
+  position: absolute;
+  right: 90px;
+  top: calc(17.90% - 10px);
+  width: 90px;
+}
+
+.pagina-produto-4 .belo-horizonte-mg-brasil-zUMt3h {
+  background-color: transparent;
+  bottom: calc(45.99% - 19px);
+  height: 42px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: 129px;
+  text-align: left;
+  white-space: nowrap;
+  width: 373px;
+}
+
+.pagina-produto-4 .cacau-smothie-MeAd3Z {
+  background-color: transparent;
+  height: 1087px;
+  left: -201px;
+  object-fit: cover;
+  position: absolute;
+  top: 174px;
+  width: 1359px;
+}
